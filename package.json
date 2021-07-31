@@ -1,0 +1,22 @@
+{
+  "name": "wstep-do-typow",
+  "version": "1.0.0",
+  "description": "Wprowadzenie do typów API",
+  "main": "index.js",
+  "scripts": {
+    "start": "http-server -o ./index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thementor-exercises/wstep-do-typow.git"
+  },
+  "author": "BG",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/thementor-exercises/wstep-do-typow/issues"
+  },
+  "homepage": "https://github.com/thementor-exercises/wstep-do-typow#readme",
+  "devDependencies": {
+    "http-server": "^0.12.3"
+  }
+}
